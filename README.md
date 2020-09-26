@@ -1,4 +1,4 @@
-# SVM_ImageClassification_Deployment
+# SVM_ImageClassificatio
 
 SampleImages_classify.py::
 
